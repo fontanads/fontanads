@@ -21,6 +21,7 @@ Currently, I am taking courses on Machine Learning and _Natural Language Process
 At the moment, I am also an assistant professor at [Instituto Federal Sul-rio-grandense (IFsul) - Campus Sapiranga](http://www.sapiranga.ifsul.edu.br/).
 
 If you want to get in touch, contact me by e-mail: fontanads :e-mail: gmail . com
+
 Also, check my other professional profiles and networks: 
 - [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)
 - [Google Scholar](https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en)
