@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Bruno Fontana da Silva. I have a Ph.D. in Electrical Engineering - my thesis was on the design _Sparse Code Multiple Access digital_ communication systems.
 Currently, I am taking courses on Machine Learning and _Natural Language Processing_ to develop new R&D projects in this fields.
-At the moment I am also an assistant professor at (Instituto Federal Sul-rio-grandense - Campus Sapiranga)[http://www.sapiranga.ifsul.edu.br/].
+At the moment I am also an assistant professor at (Instituto Federal Sul-rio-grandense (IFsul) - Campus Sapiranga)[http://www.sapiranga.ifsul.edu.br/].
 
 - (Research Gate)[https://www.researchgate.net/profile/Bruno_Fontana]
 - (Google Scholar)[https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en]
@@ -25,12 +25,19 @@ At the moment I am also an assistant professor at (Instituto Federal Sul-rio-gra
 
 ## Education
 
-- Federal University of Santa Catarina (UFSC)
+- (2016 - 2019) Ph.D. in Electrical Engineering at Federal University of Santa Catarina (UFSC)
+- (2013 - 2015) M.Sc. in Electrical Engineering at Federal University of Santa Catarina (UFSC)
+- (2007 - 2013) Bachelor degree in Electrical Engineering at Federal University of Santa Maria (UFSM)
+
+## Work Experience
+
+- (2017-current) Assistant Professor _Instituto Federal Sul-rio-grandense (IFSul) - Campus Sapiranga_
+- (2014-2015) Substitute Assistant Professor at _Instituto Federal de Santa Catarina (IFSC) - Campus São José_
 
 ## Ongoing Projects
 
-- NLP applications: detection of users with depression on social networks 
-- Machine Learning applications on Digital Communication Systems
+- (2020-current) NLP applications: detection of users with depression on social networks 
+- (2019-current) Machine Learning applications on Digital Communication Systems
 
 ## Main Language Programming Skills
 
