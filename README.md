@@ -20,7 +20,7 @@ I have a Ph.D. in Electrical Engineering. My thesis was on the design _Sparse Co
 Currently, I am taking courses on Machine Learning and _Natural Language Processing_ to develop new R&D projects in this fields.
 At the moment, I am also an assistant professor at [Instituto Federal Sul-rio-grandense (IFsul) - Campus Sapiranga](http://www.sapiranga.ifsul.edu.br/).
 
-If you want to get in touch, contact me by e-mail: _fontanads_:e-mail:gmail.com
+If you want to get in touch, contact me by e-mail: _fontanads_:e-mail:_gmail.com_
 
 Also, check my other professional profiles and networks: 
 - [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)
