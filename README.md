@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I am Bruno Fontana da Silva. I have a Ph.D. in Electrical Engineering - my thesis was on the design _Sparse Code Multiple Access digital_ communication systems.
 Currently, I am taking courses on Machine Learning and _Natural Language Processing_ to develop new R&D projects in this fields.
-At the moment I am also an assistant professor at (Instituto Federal Sul-rio-grandense (IFsul) - Campus Sapiranga)[http://www.sapiranga.ifsul.edu.br/].
+At the moment I am also an assistant professor at [Instituto Federal Sul-rio-grandense (IFsul) - Campus Sapiranga](http://www.sapiranga.ifsul.edu.br/).
 
-- (Research Gate)[https://www.researchgate.net/profile/Bruno_Fontana]
-- (Google Scholar)[https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en]
-- (CV)[http://lattes.cnpq.br/0704140512805010]
+- [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)
+- [Google Scholar](https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en)
+- [CV](http://lattes.cnpq.br/0704140512805010)
 
 ## Education
 
