@@ -22,11 +22,11 @@ At the moment, I am also an assistant professor at [Instituto Federal Sul-rio-gr
 
 If you want to get in touch, contact me by e-mail: _fontanads_:e-mail:_gmail.com_
 
-Also, check my other professional profiles and networks: 
-- [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)
-- [Google Scholar](https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/bruno-fontana-da-silva-73203a88/)
-- [Academic CV](http://lattes.cnpq.br/0704140512805010)
+Also, check my other professional profiles and networks:  
+:books: [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)  
+:newspaper: [Google Scholar](https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en)  
+:briefcase: [LinkedIn](https://www.linkedin.com/in/bruno-fontana-da-silva-73203a88/)  
+:student: [Academic CV](http://lattes.cnpq.br/0704140512805010)
 
 ## Education
 
@@ -44,8 +44,33 @@ Also, check my other professional profiles and networks:
 - (2020-current) NLP applications: detection of users with depression on social networks 
 - (2019-current) Machine Learning applications on Digital Communication Systems
 
+## Certifications
+
+- (2020-2021) Applied Data Science Bootcamp (Alura)
+- (2020) Natural Language Processing Specialization (Coursera, Credential ID MB4NQGQPTBCF)
+- (2020) PyTorch for Deep Learning with Python Bootcamp (Udemy, Credential ID UC-440e0bc2-146d-48ca-8792-186c50bc30ec)
+- (2019) Deep Learning Specialization (Coursera, Credential ID SB9G4FPJMS8U)
+
 ## Main Language Programming Skills
 
-- MATLAB
 - Python
-- Latex
+- MATLAB
+- LaTeX
+
+# Languages
+
+- Português Brasileiro (native)
+- English (advanced)
+- Français (basic)
+- Deutsch (basic)
+
+# Internships 
+
+- (2018-2019) Conservatoire National des Arts et Métiers (Paris, França)  
+Visiting doctorate student at Cedric Lab. of CNAM. Supervisor: Dr. Didier Le Ruyet.
+- (2016) Universidad de Chile (Santiago, Chile)  
+Visiting doctorate student at Postgrado Ingenería Eléctrica of UChile. Supervisor: Dr. Cesar Augusto Azurdia Meza.
+- (2012) Fraunhofer IZM (Berlim, Alemanha)  
+Internship at System Design \& Integration of Fraunhofer IZM
+- (2007) ITAIPU Binacional  
+Internship at OPUO.DT of the ITAIPU power plant.
