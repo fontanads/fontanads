@@ -25,7 +25,7 @@ If you want to get in touch, contact me by e-mail: _fontanads_:e-mail:_gmail.com
 Also, check my other professional profiles and networks:  
 :books: [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)  
 :newspaper: [Google Scholar](https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en)  
-:briefcase: [LinkedIn](https://www.linkedin.com/in/bruno-fontana-da-silva-73203a88/)  
+:briefcase: [LinkedIn](https://www.linkedin.com/in/fontanads/)  
 :student: [Academic CV](http://lattes.cnpq.br/0704140512805010)
 
 ## Education
