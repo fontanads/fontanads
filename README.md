@@ -23,9 +23,9 @@ At the moment, I am also an assistant professor at [Instituto Federal Sul-rio-gr
 If you want to get in touch, contact me by e-mail: _fontanads_:e-mail:_gmail.com_
 
 Also, check my other professional profiles and networks:  
+:briefcase: [LinkedIn](https://www.linkedin.com/in/fontanads/)  
 :books: [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)  
 :newspaper: [Google Scholar](https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en)  
-:briefcase: [LinkedIn](https://www.linkedin.com/in/fontanads/)  
 :student: [Academic CV](http://lattes.cnpq.br/0704140512805010)
 
 ## Education
@@ -36,7 +36,8 @@ Also, check my other professional profiles and networks:
 
 ## Work Experience
 
-- (2017-current) Assistant Professor _Instituto Federal Sul-rio-grandense (IFSul) - Campus Sapiranga_
+- (2021-current) Data Scientist _Advanced Analytics of Magazine Luiza (São Paulo - SP)_
+- (2017-2021) Assistant Professor _Instituto Federal Sul-rio-grandense (IFSul) - Campus Sapiranga_
 - (2014-2015) Substitute Assistant Professor at _Instituto Federal de Santa Catarina (IFSC) - Campus São José_
 
 ## Ongoing Projects
