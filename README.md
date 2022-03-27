@@ -43,7 +43,7 @@ Also, check my other professional profiles and networks:
 - (2017-2021) Assistant Professor _Instituto Federal Sul-rio-grandense (IFSul) - Campus Sapiranga_
 - (2014-2015) Substitute Assistant Professor at _Instituto Federal de Santa Catarina (IFSC) - Campus São José_
 
-## Ongoing Projects
+## Recent Projects
 
 - (2020-2021) NLP applications: detection of users with depression on social networks 
 - (2019-2021) Machine Learning applications on Digital Communication Systems
