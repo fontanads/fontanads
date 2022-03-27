@@ -58,8 +58,16 @@ Also, check my other professional profiles and networks:
 ## Main Language Programming Skills
 
 - Python
+- SQL
 - MATLAB
 - LaTeX
+
+## Skills and Tools
+
+- pyspark, pandas, numpy
+- airflow
+- google ads API and GAQL
+- scikit-learn and pytorch 
 
 # Languages
 
