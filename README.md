@@ -45,8 +45,8 @@ Also, check my other professional profiles and networks:
 
 ## Ongoing Projects
 
-- (2020-current) NLP applications: detection of users with depression on social networks 
-- (2019-current) Machine Learning applications on Digital Communication Systems
+- (2020-2021) NLP applications: detection of users with depression on social networks 
+- (2019-2021) Machine Learning applications on Digital Communication Systems
 
 ## Certifications
 
