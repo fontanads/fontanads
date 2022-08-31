@@ -16,20 +16,34 @@ Here are some ideas to get you started:
 -->
 
 Hi, I am Bruno Fontana da Silva.  
+I am a Data Scientist, with experience in videogame economy, performance marketing and retail e-commerce.  
 I have a Ph.D. in Electrical Engineering. My thesis was on the design _Sparse Code Multiple Access_ digital communication systems.  
-Currently, I am taking courses on Machine Learning and _Natural Language Processing_ to develop new R&D projects in these fields.  
 <!--
- At the moment, I am also an assistant professor at [Instituto Federal Sul-rio-grandense (IFsul) - Campus Sapiranga](http://www.sapiranga.ifsul.edu.br/).
--->
+Currently, I am taking courses on Machine Learning and _Natural Language Processing_ to develop new R&D projects in these fields.  
+At the moment, I am also an assistant professor at [Instituto Federal Sul-rio-grandense (IFsul) - Campus Sapiranga](http://www.sapiranga.ifsul.edu.br/).
 At the moment, I am a Data Scientist for the Advanced Analytics Team of Magazine Luiza.
+-->
 
 If you want to get in touch, contact me by e-mail: _fontanads_:e-mail:_gmail.com_
 
 Also, check my other professional profiles and networks:  
-:briefcase: [LinkedIn](https://www.linkedin.com/in/fontanads/)  
-:books: [Research Gate](https://www.researchgate.net/profile/Bruno_Fontana)  
-:newspaper: [Google Scholar](https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en)  
-:student: [Academic CV](http://lattes.cnpq.br/0704140512805010)
+
+<div>
+<a href="https://www.linkedin.com/in/fontanads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" target="_blank" height="40px"></a>
+
+
+<a href="https://www.researchgate.net/profile/Bruno_Fontana" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="Research Gate" target="_blank" height="40px"></a>
+
+
+<a href="https://scholar.google.com.br/citations?user=vAY4olUAAAAJ&hl=en" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" target="_blank" height="40px"></a>
+
+
+<a href="http://lattes.cnpq.br/0704140512805010" target="_blank">
+<img src="http://ole.uff.br/wp-content/uploads/sites/549/2020/10/9e287-logo-lattes-300x300.png" alt="Academic CV Lattes" target="_blank" height="40px"></a>
+<div>
 
 ## Education
 
@@ -57,17 +71,28 @@ Also, check my other professional profiles and networks:
 
 ## Main Language Programming Skills
 
-- Python
-- SQL
-- MATLAB
-- LaTeX
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" target="_blank" height="60px">    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" target="_blank" height="60px">    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" target="_blank" height="60px">    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" target="_blank" height="60px">
+<div>
 
 ## Skills and Tools
 
-- pyspark, pandas, numpy
-- airflow
-- google ads API and GAQL
-- scikit-learn and pytorch 
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" target="_blank" height="60px">    
+<img src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="PySpark" target="_blank" height="60px">    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" target="_blank" height="60px">    
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" target="_blank" height="60px">
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="Big Query" target="_blank" height="60px">    
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="Looker" target="_blank" height="60px">    
+<img src="https://images-cdn.brightedge.com/f00000000036389/videos.brightedge.com/assets/website/product/googledatastudio-logo.png" alt="Data Studio" target="_blank" height="60px">    
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" alt="Google Ads API" target="_blank" height="60px">    
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" target="_blank" height="60px">   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" target="_blank" height="60px">    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" target="_blank" height="60px">    
+<div>
 
 # Languages
 
