@@ -54,7 +54,7 @@ Also, check my other professional profiles and networks:
 
 ## Work Experience
 
-- (2022-current) Data Scientist _BW3S BPU of King (London, UK)_
+- (2022-current) Data Scientist _Candy Crush Saga Analytics of King (London, UK)_
 - (2021-2022) Data Scientist _Advanced Analytics of Magazine Luiza (São Paulo - SP, Brazil)_
 - (2017-2021) Assistant Professor _Instituto Federal Sul-rio-grandense (IFSul) - Campus Sapiranga_ (Sapiranga - RS, Brazil)
 - (2014-2015) Substitute Assistant Professor at _Instituto Federal de Santa Catarina (IFSC) - Campus São José_ (São José - SC, Brazil)
