@@ -1,0 +1,4 @@
+- Português Brasileiro (native)
+- English (advanced)
+- Français (basic)
+- Deutsch (basic)

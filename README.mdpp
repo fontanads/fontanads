@@ -1,0 +1,40 @@
+# Welcome to Bruno's GitHub :coffee: 
+
+
+!INCLUDE "sections/intro.md" 
+
+!INCLUDE "sections/contact.md" 
+
+
+## Education
+
+!INCLUDE "sections/education.md" 
+
+## Work Experience
+
+!INCLUDE "sections/workxp.md" 
+
+
+## Certifications
+
+!INCLUDE "sections/certifications.md" 
+
+
+## Main Language Programming Skills
+
+!INCLUDE "sections/programming_skills.md" 
+
+
+## Skills and Tools
+
+!INCLUDE "sections/skills_tools.md" 
+
+
+# Languages
+
+!INCLUDE "sections/languages.md" 
+
+# Internships 
+
+!INCLUDE "sections/internships.md" 
+
