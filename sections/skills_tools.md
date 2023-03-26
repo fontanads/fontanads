@@ -15,8 +15,10 @@ https://svgtopng.com/
 --->
 
 <div>
-<img src="https://img.shields.io/badge/-pycharm-00AFEC?logo=pycharm" alt="PyCharm" target="_blank" height="25px"/>   
-<img src="https://img.shields.io/badge/-vscode-00AFEC?logo=visualstudiocode" alt="VS Code" target="_blank" height="25px"/>
+
+<img src="https://img.shields.io/badge/-pycharm-00AFEC?logo=pycharm&logoColor=white" alt="PyCharm" target="_blank" height="25px"/>
+
+<img src="https://img.shields.io/badge/-vscode-00AFEC?logo=visualstudiocode&logoColor=white" alt="VS Code" target="_blank" height="25px"/>
 
 <img src="https://img.shields.io/badge/-poetry-00AFEC?logo=poetry&logoColor=white" alt="poetry" target="_blank" height="25px"/>
 
