@@ -10,7 +10,7 @@ At the moment, I am also an assistant professor at [Instituto Federal Sul-rio-gr
 At the moment, I am a Data Scientist for the Advanced Analytics Team of Magazine Luiza.
 -->
 If you want to get in touch, contact me by e-mail: _fontanads_:e-mail:_gmail.com_  
-:clipboard:	You can check **[my professional CV here](https://www.dropbox.com/s/sue91b6865izb3q/SimpleCV_BrunoFontana_UK_v2022_2.pdf?dl=0)</a>**.
+:clipboard:	You can check **[my professional CV here](https://github.com/fontanads/cv/blob/main/SimpleCV.pdf)</a>**.
 
 Also, check my other professional profiles and networks:  
 
