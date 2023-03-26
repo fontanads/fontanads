@@ -1,0 +1,4 @@
+- (2020-2021) Applied Data Science Bootcamp (Alura)
+- (2020) Natural Language Processing Specialization (Coursera, Credential ID MB4NQGQPTBCF)
+- (2020) PyTorch for Deep Learning with Python Bootcamp (Udemy, Credential ID UC-440e0bc2-146d-48ca-8792-186c50bc30ec)
+- (2019) Deep Learning Specialization (Coursera, Credential ID SB9G4FPJMS8U)
