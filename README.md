@@ -27,7 +27,8 @@ Also, check my other professional profiles and networks:
 
 <a href="http://lattes.cnpq.br/0704140512805010" target="_blank">
 <img src="http://ole.uff.br/wp-content/uploads/sites/549/2020/10/9e287-logo-lattes-300x300.png" alt="Academic CV Lattes" target="_blank" height="40px"></a>
-<div>
+<div>  
+
 ## Work Experience
 
 - (2022-current) Data Scientist _Candy Crush Saga Analytics of King (London, UK)_
