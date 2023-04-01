@@ -5,20 +5,17 @@
 
 !INCLUDE "sections/contact.md" 
 
+## Work Experience
+
+!INCLUDE "sections/workxp.md" 
 
 ## Education
 
 !INCLUDE "sections/education.md" 
 
-## Work Experience
-
-!INCLUDE "sections/workxp.md" 
-
-
 ## Certifications
 
 !INCLUDE "sections/certifications.md" 
-
 
 ## Main Language Programming Skills
 
