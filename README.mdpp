@@ -3,22 +3,19 @@
 
 !INCLUDE "sections/intro.md" 
 
-!INCLUDE "sections/contact.md" 
-
-
-## Education
-
-!INCLUDE "sections/education.md" 
+!INCLUDE "sections/contact.md"  
 
 ## Work Experience
 
 !INCLUDE "sections/workxp.md" 
 
+## Education
+
+!INCLUDE "sections/education.md" 
 
 ## Certifications
 
 !INCLUDE "sections/certifications.md" 
-
 
 ## Main Language Programming Skills
 
@@ -30,11 +27,11 @@
 !INCLUDE "sections/skills_tools.md" 
 
 
-# Languages
+## Languages
 
 !INCLUDE "sections/languages.md" 
 
-# Internships 
+## Internships 
 
 !INCLUDE "sections/internships.md" 
 
