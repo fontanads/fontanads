@@ -116,14 +116,14 @@ https://svgtopng.com/
 --->
 <div>
 
-# Languages
+## Languages
 
 - Português Brasileiro (native)
 - English (advanced)
 - Français (basic)
 - Deutsch (basic)
 
-# Internships 
+## Internships 
 
 - (2018-2019) Conservatoire National des Arts et Métiers (Paris, França)  
 Visiting doctorate student at Cedric Lab. of CNAM. Supervisor: Dr. Didier Le Ruyet.
