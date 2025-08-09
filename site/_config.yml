@@ -1,0 +1,7 @@
+title: "Bruno Fontana da Silva"
+description: "Personal website"
+theme: jekyll-theme-minimal
+
+# Exclude build artifacts and other files
+exclude:
+  - README.md
