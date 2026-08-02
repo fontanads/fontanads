@@ -11,7 +11,7 @@ first row of "Career path". The rest of this profile is intentionally evergreen.
 
 London, United Kingdom
 
-[LinkedIn](https://www.linkedin.com/in/fontanads/) | [Email](mailto:fontanads@gmail.com) | [Data Science Festival talk](https://www.youtube.com/watch?v=TVTdm8KE_vc) | [PhD thesis](https://repositorio.ufsc.br/handle/123456789/214493)
+[LinkedIn](https://www.linkedin.com/in/fontanads/) | [Email](mailto:fontanads@gmail.com) | [Data Science Festival talk](https://www.youtube.com/watch?v=TVTdm8KE_vc) | [PhD thesis](https://repositorio.ufsc.br/handle/123456789/214493) | [CV](https://fontanads.github.io/cv/)
 
 </div>
 
